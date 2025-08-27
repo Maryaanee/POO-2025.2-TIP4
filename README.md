@@ -28,19 +28,19 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 ```  
 POO-2025.2-TIP4/  
 ├── Lista-01/  
-│   ├── Exercicio-01/  
-│   └── ...  
+│   ├── Exercicios Resolvidos/  
+│   └── Exercicios Propostos/  
 ├── Lista-02/  
-│   ├── Exercicio-01/  
-│   └── ...  
+│   ├── Exercicios Resolvidos/  
+│   └── Exercicios Propostos/  
 ├── Lista-03/  
-│   ├── Exercicio-01/  
-│   └── ...  
-└── README.md  
+│   ├── Exercicios Resolvidos/  
+│   └── Exercicios Propostos/  
+└── README.md 
 ```  
-- **`/Lista-01`** → Exercícios resolvidos da primeira lista.  
-- **`/Lista-02`** → Exercícios resolvidos da segunda lista.  
-- **`/Lista-03`** → Exercícios resolvidos da terceira lista.  
+- **`/Lista-01`** → Exercícios resolvidos e propostos da primeira lista.  
+- **`/Lista-02`** → Exercícios resolvidos e propostos da segunda lista.  
+- **`/Lista-03`** → Exercícios resolvidos e propostos da terceira lista.  
 
 ---
 
