@@ -19,7 +19,7 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 | Nome Completo do Aluno | Matrícula | GitHub |
 | ---------------------- | --------- | ------ |
 | [Fca. Mariane S. da Silva] | [20241321000031] | [@Maryaanee](https://github.com/Maryaanee) |
-| [José Hadriel M. dos Santos] | [20241321000043] | [@usuario2](https://github.com/usuario2) |
+| [José Hadriel M. dos Santos] | [20241321000043] | [@HadrielZ10](https://github.com/HadrielZ10) |
 
 ---
 
