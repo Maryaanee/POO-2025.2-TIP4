@@ -1,8 +1,9 @@
-<h1>📚 Repositório de Programação Orientada a Objetos</h1>
-<h3 style="color:#4B0082;">💻 POO - 2025.2 - TIP4</h3>
+# 📚 Repositório de Programação Orientada a Objetos
+### 💻 POO - 2025.2 - TIP4  
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java logo"/>
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="70" alt="Eclipse IDE logo"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java logo"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse IDE logo"/>
+
 
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
 
@@ -19,7 +20,7 @@
 
 ---
 
-<h2 style="color:#FF4500;">🎯 Objetivo</h2>
+## 🎯 Objetivo
 
 Este repositório tem como objetivo principal armazenar e documentar o desenvolvimento das **listas de exercícios da disciplina de Programação Orientada a Objetos (POO)**, referente ao período letivo de **2025.2**, para a turma **S4**.  
 
@@ -29,7 +30,7 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 
 ---
 
-<h2 style="color:#008080;">👥 Membros da Equipe</h2>
+## 👥 Membros da Equipe
 
 | 🧑 Nome Completo do Aluno      | 🎓 Matrícula      | 🌐 GitHub |
 | ------------------------------ | ---------------- | --------- |
@@ -38,21 +39,22 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 
 ---
 
-<h2 style="color:#6A5ACD;">📂 Estrutura do Repositório</h2>
+## 📂 Estrutura do Repositório
 
-<pre style="background-color:#f0f0f0; padding:10px; border-radius:6px;">
 POO-2025.2-TIP4/
 ├── Lista-01/
-│   ├── Exercicios Resolvidos/
-│   └── Exercicios Propostos/
+│ ├── Exercicios Resolvidos/
+│ └── Exercicios Propostos/
 ├── Lista-02/
-│   ├── Exercicios Resolvidos/
-│   └── Exercicios Propostos/
+│ ├── Exercicios Resolvidos/
+│ └── Exercicios Propostos/
 ├── Lista-03/
-│   ├── Exercicios Resolvidos/
-│   └── Exercicios Propostos/
+│ ├── Exercicios Resolvidos/
+│ └── Exercicios Propostos/
 └── README.md
-</pre>
+
+markdown
+Copiar código
 
 - **[`/Lista-01`](./Lista-01/)** → 📘 Exercícios resolvidos e propostos da primeira lista.  
 - **[`/Lista-02`](./Lista-02/)** → 📗 Exercícios resolvidos e propostos da segunda lista.  
@@ -60,7 +62,7 @@ POO-2025.2-TIP4/
 
 ---
 
-<h2 style="color:#FF6347;">📚 Referência e Divisão dos Exercícios</h2>
+## 📚 Referência e Divisão dos Exercícios
 
 **📖 Livro Utilizado:**  
 *Fundamentos da Programação de Computadores*  
@@ -69,7 +71,7 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 ---
 
-<h2 style="color:#20B2AA;">📒 Divisão por Listas</h2>
+## 📒 Divisão por Listas
 
 - **LISTA-01** 📝  
   - ✅ Exercícios 1º ao 10º (Resolvidos)  
@@ -89,7 +91,7 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 ---
 
-<h2 style="color:#FF8C00;">🚀 Como Executar os Exercícios</h2>
+## 🚀 Como Executar os Exercícios
  
 1. 🖥️ Abra o projeto na **IDE Eclipse**.  
 2. 🔎 Localize a classe `Principal.java` em cada questão.  
@@ -97,7 +99,7 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 ---
 
-<h2 style="color:#2E8B57;">📌 Informações da Disciplina</h2>
+## 📌 Informações da Disciplina
 
 - 📘 **Disciplina:** Programação Orientada a Objetos (POO)  
 - 📅 **Período Letivo:** 2025.2  
