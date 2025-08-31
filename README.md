@@ -25,7 +25,7 @@ Este repositório tem como objetivo principal armazenar e documentar o desenvolv
 
 Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `Lista-03`, permitindo o acompanhamento do progresso e a consulta do código desenvolvido.
 
-NOTA N1
+**NOTA N1**
 
 ---
 
