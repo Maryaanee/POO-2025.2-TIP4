@@ -41,20 +41,17 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 
 ## 📂 Estrutura do Repositório
 
-POO-2025.2-TIP4/
-├── Lista-01/
-│ ├── Exercicios Resolvidos/
-│ └── Exercicios Propostos/
-├── Lista-02/
-│ ├── Exercicios Resolvidos/
-│ └── Exercicios Propostos/
-├── Lista-03/
-│ ├── Exercicios Resolvidos/
-│ └── Exercicios Propostos/
-└── README.md
-
-markdown
-Copiar código
+POO-2025.2-TIP4/  
+├── Lista-01/  
+│   ├── Exercicios Resolvidos/  
+│   └── Exercicios Propostos/  
+├── Lista-02/  
+│   ├── Exercicios Resolvidos/  
+│   └── Exercicios Propostos/  
+├── Lista-03/  
+│   ├── Exercicios Resolvidos/  
+│   └── Exercicios Propostos/  
+└── README.md 
 
 - **[`/Lista-01`](./Lista-01/)** → 📘 Exercícios resolvidos e propostos da primeira lista.  
 - **[`/Lista-02`](./Lista-02/)** → 📗 Exercícios resolvidos e propostos da segunda lista.  
