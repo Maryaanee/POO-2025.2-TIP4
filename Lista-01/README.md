@@ -7,9 +7,8 @@
 
 ## 📌 Exercícios
 
-- [📘 Exercícios Resolvidos](./Lista-01/Exercicios%20Resolvidos/)
-- [📗 Exercícios Propostos](./Lista-01/Exercicios%20Propostos/)
-
+- [📘 Exercícios Resolvidos](./Lista-01/Exercicios-Resolvidos/)
+- [📗 Exercícios Propostos](./Lista-01/Exercicios-Propostos/)
 
 
 ## 📌 Exercícios Resolvidos
@@ -39,4 +38,5 @@
 com validações. |
 | Q04  | Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda. |
 | Q05  | Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%. |
+
 
