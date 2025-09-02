@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Q04 {
+module Q04p {
 }
