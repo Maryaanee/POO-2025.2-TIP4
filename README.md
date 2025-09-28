@@ -45,13 +45,16 @@ POO-2025.2-TIP4/
 ├── Lista-01/  
 │   ├── Exercicios Resolvidos/  
 │   └── Exercicios Propostos/  
+│ 
 ├── Lista-02/  
 │   ├── CAP04/  
 │       ├── Exercicios Resolvidos/  
 │       └── Exercicios Propostos/ 
+│ 
 │   ├── CAP05/  
 │       ├── Exercicios Resolvidos/  
-│       └── Exercicios Propostos/    
+│       └── Exercicios Propostos/ 
+│ 
 ├── Lista-03/  
 │   ├── CAP08/  
 │       ├── Exercicios Resolvidos/  
