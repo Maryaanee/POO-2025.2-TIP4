@@ -5,7 +5,7 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse IDE logo"/>
 
 
-![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+![Status](https://img.shields.io/badge/Status-%20Concluído-green)
 
 ---
 
@@ -24,7 +24,7 @@
 
 Este repositório tem como objetivo principal armazenar e documentar o desenvolvimento das **listas de exercícios da disciplina de Programação Orientada a Objetos (POO)**, referente ao período letivo de **2025.2**, para a turma **S4**.  
 
-Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `Lista-03`, permitindo o acompanhamento do progresso e a consulta do código desenvolvido.
+Aqui estão resoluções das listas `Lista-01`, `Lista-02` e `Lista-03`, permitindo o acompanhamento do progresso e a consulta do código desenvolvido.
 
 **NOTA N1**
 
@@ -46,16 +46,21 @@ POO-2025.2-TIP4/
 │   ├── Exercicios Resolvidos/  
 │   └── Exercicios Propostos/  
 ├── Lista-02/  
-│   ├── Exercicios Resolvidos/  
-│   └── Exercicios Propostos/  
+│   ├── CAP04/  
+│       ├── Exercicios Resolvidos/  
+│       └── Exercicios Propostos/ 
+│   ├── CAP05/  
+│       ├── Exercicios Resolvidos/  
+│       └── Exercicios Propostos/    
 ├── Lista-03/  
-│   ├── Exercicios Resolvidos/  
-│   └── Exercicios Propostos/  
-└── README.md 
+│   ├── CAP08/  
+│       ├── Exercicios Resolvidos/  
+│       └── Exercicios Propostos/     
+└── Todos contém README.md 
 
-- **[`/Lista-01`](./Lista-01/)** → 📘 Exercícios resolvidos e propostos da primeira lista.  
-- **[`/Lista-02`](./Lista-02/)** → 📗 Exercícios resolvidos e propostos da segunda lista.  
-- **[`/Lista-03`](./Lista-03/)** → 📙 Exercícios resolvidos e propostos da terceira lista.  
+- **[`/Lista-01`](./Lista-01/)** → 📘  
+- **[`/Lista-02`](./Lista-02/)** → 📗   
+- **[`/Lista-03`](./Lista-03/)** → 📙   
 
 ---
 
@@ -82,8 +87,8 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
   - 📗 Capítulo 05 → Estrutura de Repetição  
 
 - **LISTA-03** 📝  
-  - ✅ Exercícios 1º ao 10º (Resolvidos)  
-  - 📙 Capítulo 06 → Vetor  
+  - ✅ Exercícios 1º ao 10º (Resolvidos)
+  - 🧩 Exercícios 1º ao 5º (Propostos)  
   - 📙 Capítulo 08 → Sub-rotina  
 
 ---
