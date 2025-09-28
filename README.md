@@ -42,24 +42,24 @@ Aqui estão resoluções das listas `Lista-01`, `Lista-02` e `Lista-03`, permiti
 ## 📂 Estrutura do Repositório
 
 POO-2025.2-TIP4/  
-├── Lista-01/  
-│   ├── Exercicios Resolvidos/  
-│   └── Exercicios Propostos/  
-│ 
-├── Lista-02/  
-│   ├── CAP04/  
-│       ├── Exercicios Resolvidos/  
-│       └── Exercicios Propostos/ 
-│ 
-│   ├── CAP05/  
-│       ├── Exercicios Resolvidos/  
-│       └── Exercicios Propostos/ 
-│ 
-├── Lista-03/  
-│   ├── CAP08/  
-│       ├── Exercicios Resolvidos/  
-│       └── Exercicios Propostos/     
-└── Todos contém README.md 
+├── 📁 **Lista-01/**  
+│   ├── ✅ Exercícios Resolvidos/  
+│   └── 📌 Exercícios Propostos/  
+│  
+├── 📁 **Lista-02/**  
+│   ├── 📘 CAP04/  
+│   │   ├── ✅ Exercícios Resolvidos/  
+│   │   └── 📌 Exercícios Propostos/  
+│   ├── 📙 CAP05/  
+│   │   ├── ✅ Exercícios Resolvidos/  
+│   │   └── 📌 Exercícios Propostos/  
+│  
+├── 📁 **Lista-03/**  
+│   ├── 📗 CAP08/  
+│   │   ├── ✅ Exercícios Resolvidos/  
+│   │   └── 📌 Exercícios Propostos/  
+│  
+└── 📝 Todos contêm **README.md**
 
 - **[`/Lista-01`](./Lista-01/)** → 📘  
 - **[`/Lista-02`](./Lista-02/)** → 📗   
