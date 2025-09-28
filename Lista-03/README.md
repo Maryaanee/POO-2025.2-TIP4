@@ -8,8 +8,8 @@
 ## 📘 Capítulo 8 - Sub-rotinas  
 
 ### 📂 Organização  
-- [📝 Exercícios Resolvidos](./Exercicios-Resolvidos/)  
-- [📗 Exercícios Propostos](./Exercicios-Propostos/)  
+- [📝 Exercícios Resolvidos](CAP08/Exercicios-Resolvidos/)  
+- [📗 Exercícios Propostos](CAP08/Exercicios-Propostos/)  
 
 ---
 
@@ -39,5 +39,6 @@
 | Q03  | Elabore uma sub-rotina que receba dois números. Retorne **0** se o primeiro for divisível pelo segundo; caso contrário, retorne o **próximo divisor**. |
 | Q04  | Faça uma sub-rotina que receba o **raio de uma esfera**, calcule e mostre no programa principal o **volume**: `V = 4/3 * R³`. |
 | Q05  | Faça uma sub-rotina que receba um valor inteiro e verifique se ele é **positivo ou negativo**. |
+
 
 
